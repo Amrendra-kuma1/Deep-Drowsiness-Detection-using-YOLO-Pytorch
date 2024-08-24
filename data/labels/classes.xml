@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>awake.4aba3497-6043-11ef-aa12-d03957e54d7e.jpg</filename>
+	<path>C:\Users\amren\OneDrive\Desktop\dplppy\Deep Drowsiness Detection using YOLO, Pytorch and Python\data\images\awake.4aba3497-6043-11ef-aa12-d03957e54d7e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
